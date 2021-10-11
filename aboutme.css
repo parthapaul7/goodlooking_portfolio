@@ -194,6 +194,7 @@ a.navs:hover, .social:hover{
   }
   
   .btn {
+    display:block;
     width: 100px;
     margin:auto;
     

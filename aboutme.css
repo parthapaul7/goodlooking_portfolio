@@ -184,8 +184,9 @@ a.navs:hover, .social:hover{
     margin: 10px;
     padding: 5px;
     background:rgba(0, 128, 0, 0.096);
-    border-radius: 10px;
+    border-radius: 5px;
     outline: none;
+    border:none;
   }
   
   .form-item textarea {
@@ -193,10 +194,13 @@ a.navs:hover, .social:hover{
   }
   
   .btn {
+    width: 100px;
+    margin:auto;
+    
     cursor: pointer;
     font-size: 17px;
     color: red;
-    padding: 0px;
+    padding: 5px;
   }
   
   .btn:hover {
